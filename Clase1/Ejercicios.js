@@ -27,7 +27,7 @@ const setCapitalUpper = (word) => {
   }
 };
 
-// setCapitalUpper("HolaPIhght%FG");
+ setCapitalUpper("HolaPIhght%FG");
 
 /**
  * 2. Haz una función "fizzbuzz" que reciba un número entero y, para cada número desde 1
@@ -128,4 +128,4 @@ const maxPower = (a,b,c,d) => {
 }
 
 
-maxPower(12,34,37,23);
+maxPower(-45,34,150,23);
